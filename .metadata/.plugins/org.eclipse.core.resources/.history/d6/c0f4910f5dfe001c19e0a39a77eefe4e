@@ -1,0 +1,8 @@
+package br.com.ronanaraujo.microservice.loja.controller.dto;
+
+public class ItemDaCompra {
+	
+	private long id;
+	
+	private int quantidade;
+}

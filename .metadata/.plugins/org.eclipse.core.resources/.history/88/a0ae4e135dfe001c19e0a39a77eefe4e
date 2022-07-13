@@ -1,0 +1,6 @@
+package br.com.ronanaraujo.microservice.loja.controller.dto;
+
+public class CompraDTO {
+	private List<ItemDaCompra> itens;
+	
+}

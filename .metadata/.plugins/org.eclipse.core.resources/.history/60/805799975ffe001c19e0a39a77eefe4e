@@ -1,0 +1,14 @@
+package br.com.ronanaraujo.microservice.loja.service;
+
+import org.springframework.web.client.RestTemplate;
+
+import br.com.ronanaraujo.microservice.loja.controller.dto.CompraDTO;
+
+public class CompraService {
+
+	public void realizaCompra(CompraDTO compra) {
+		RestTemplate cliente = new RestTemplate();
+		cliente.exchange("http://localhost:8081/nfo/"+compra.getEndereco().getEstado());
+	}
+
+}

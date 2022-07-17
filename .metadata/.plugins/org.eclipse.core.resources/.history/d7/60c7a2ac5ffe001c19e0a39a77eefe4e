@@ -1,6 +1,0 @@
-package br.com.ronanaraujo.microservice.loja.controller.dto;
-
-public class InfoFornecedorDTO {
-	
-	private String endereco;
-}

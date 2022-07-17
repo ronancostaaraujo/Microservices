@@ -1,5 +1,0 @@
-package br.com.ronanaraujo.microservice.loja.controller.dto;
-
-public class CompraDTO {
-
-}

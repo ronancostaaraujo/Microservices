@@ -1,5 +1,0 @@
-package br.com.ronanaraujo.microservice.fornecedor.model;
-
-public class InfoFornecedor {
-
-}

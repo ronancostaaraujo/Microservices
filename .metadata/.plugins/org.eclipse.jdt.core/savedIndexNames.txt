@@ -19,7 +19,6 @@ INDEX VERSION 1.131+C:\SPRING_BOOT\workspace_alura_microservicos\.metadata\.plug
 4119030272.index
 292972605.index
 1103132662.index
-1698827149.index
 60218501.index
 1973211601.index
 2903279576.index

@@ -5882,3 +5882,48 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 15:40:53.186
 !MESSAGE executing callback sts4.classpath.vjTUiKyI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:50.626
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:50.630
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:50.633
+!MESSAGE buffering callback sts4.classpath.vjTUiKyI eureka-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:50.633
+!MESSAGE executing callback sts4.classpath.vjTUiKyI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:50.648
+!MESSAGE executing callback sts4.classpath.vjTUiKyI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:52.631
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:52.634
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:52.637
+!MESSAGE buffering callback sts4.classpath.vjTUiKyI eureka-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:52.637
+!MESSAGE executing callback sts4.classpath.vjTUiKyI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:32:52.650
+!MESSAGE executing callback sts4.classpath.vjTUiKyI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:35:00.652
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:35:00.656
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:35:00.658
+!MESSAGE buffering callback sts4.classpath.vjTUiKyI eureka-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:35:00.659
+!MESSAGE executing callback sts4.classpath.vjTUiKyI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-17 16:35:00.674
+!MESSAGE executing callback sts4.classpath.vjTUiKyI SUCCESS [done]

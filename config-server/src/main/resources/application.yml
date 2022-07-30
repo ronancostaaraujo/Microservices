@@ -4,20 +4,19 @@ spring:
   cloud:
     config:
       server:
-        native:
-          search-locations: C:/microservice-repo
-  profiles:
-    active: native
-
-    spring:
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    password: ''
-    url: jdbc:mysql://localhost:3306/fornecedor
-    username: root
-  jpa:
-    hibernate:
-      ddl-auto: update
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.MySQL8Dialect
+        git:
+          uri: https://github.com/ronancostaaraujo/microservice-repo
+          search-paths: fornecedor
+#  profiles:
+#    active: g
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    password: ''
+#    url: jdbc:mysql://localhost:3306/fornecedor
+#    username: root
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL8Dialect

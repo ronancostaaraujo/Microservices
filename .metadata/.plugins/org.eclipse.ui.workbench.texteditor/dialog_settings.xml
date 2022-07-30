@@ -5,13 +5,15 @@
 		<item key="DIALOG_Y_ORIGIN" value="396"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="eureka"/>
+		<item key="selection" value="feig"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="true"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="feigh"/>
+			<item value="spring-cloud-starter-bootstrap"/>
 			<item value="eureka"/>
 			<item value="packaging"/>
 			<item value="on-processor"/>
